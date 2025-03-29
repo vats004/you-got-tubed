@@ -1,0 +1,186 @@
+Video ID,Title,Descrption,Published At
+R51lAC_n_lw,Microsoft is using AI to convert code to Rust...,Microsoft is adopting Rust across it's product line and using AI to convert Python code to Rust. Mark's keynote talk: ...,2025-03-27T14:03:54Z
+RrIzHCKcS_g,C++ is losing to Rust (C++ creator calls for help),Article: https://www.theregister.com/2025/03/02/c_creator_calls_for_action/ Free Rust training: https://letsgetrusty.com/bootcamp.,2025-03-13T14:54:59Z
+P4-jSupvBFs,Rust&#39;s 2024 edition is finally here,"Rust Edition 2024 has officially launched! In this video, we'll dive into the key improvements that make Rust even more powerful ...",2025-02-28T15:00:39Z
+n2LUFpgqxdY,Rust adoption in Linux is NOT going well…,Rust adoption in the Linux Kernel has hit a few snags. In this video we'll explore why existing C maintainers want nothing to do ...,2025-02-24T14:36:34Z
+NV6Xo_el_2o,A new tool for visualizing Rust lifetimes,See how RustOwl can help you understand lifetimes in a real Rust codebase. A brand-new tool designed to visualize Rust ...,2025-02-13T15:00:34Z
+HGERkwG0ViI,Breaking Rust’s memory safety with 1 line of code,Discover how Rust's memory safety guarantee was shattered with just one line of code! Dive into the story of a 10-year-old bug in ...,2025-01-16T15:00:21Z
+eJFWTS0ktXo,Should you learn Rust in 2025?,"In this video, we explore whether learning Rust in 2025 is a good investment for developers. We'll explore the language's features ...",2024-12-20T15:00:54Z
+SWwTD2neodE,5 deadly Rust anti-patterns to avoid,"In this video, we explore 5 deadly anti-patterns in Rust that can lead to buggy, inefficient, or hard-to-maintain code. Avoid these ...",2024-12-03T14:50:52Z
+AwFU-CrIB8I,Rust is secretly taking over chip development,"Find out how Rust is making it's way into computer chips and why companies like Nvidia, AMD, Google, and Microsoft are ...",2024-10-18T14:18:33Z
+ZhedgZtd8gw,Ultimate VS Code setup for Rust development (2025),"Discover why Visual Studio Code remains the go-to IDE for developers, especially when working with Rust. In this video, we'll ...",2024-10-10T14:00:35Z
+umhxH_AxG7I,Google’s adoption of Rust has finally paid off…,"In this video, we dive into how Google has successfully cut memory safety vulnerabilities in Android through the adoption of Rust ...",2024-10-03T14:00:52Z
+6mVkva3_z9M,The genius of Rust constructors,"Dive into the bold design choices of Rust! In this video, we explore how Rust sets itself apart from traditional object-oriented ...",2024-09-26T14:00:05Z
+uQYoSZTcUKI,Top 5 Rust books you MUST READ!,Discover the 5 must-read Rust books that will elevate your skills from a complete beginner to a competent Rust developer!,2024-09-19T14:00:49Z
+sjsnuirLyKM,Rust stole C++&#39;s best features,"In this video, we dive deep into the best feature Rust stole from C+.+ I'll break down exactly what these features are and show you ...",2024-09-12T14:00:54Z
+7ZU8kQNjAcc,Rust&#39;s next major update is coming...,"Rust's next major update is just around the corner, and it's shaping up to be a game-changer! Every 3 years, Rust releases a new ...",2024-09-05T14:00:05Z
+E2mKJ73M9pg,Ultimate Neovim setup for Rust development,"In this video, I'll guide you through the ultimate Neovim setup for Rust development. Learn how to achieve blazingly-fast code ...",2024-08-29T14:00:22Z
+VLrMQ92Ld0k,Rust is taking over Linux... again? (Cosmic DE),Cosmic DE is a new Linux desktop environment written from scratch in Rust. Find out how Cosmic is leveraging Rust to provide a ...,2024-08-22T14:00:28Z
+42FhQWQ6SVA,Where is Rust being used?,"In this video, we'll dive into the exciting world of Rust and explore how various industries are embracing this powerful ...",2024-08-15T14:00:05Z
+6TIQPDL2HSQ,Rust is even harder than you think,"In this video, I will show you how Rust elegantly hides much of the complexity from us. Free 4-Day Rust training: ...",2024-08-08T14:00:05Z
+anfCoIGP8HM,US Gov to convert all C to Rust,"The US government is planning to convert all C code to Rust. The Defense Advanced Research Projects Agency, better known as ...",2024-07-31T18:24:20Z
+6fwDwJodJrg,Rust&#39;s second most complicated feature explained,Explore one of Rust's second most intricate features. Discover its significance in popular libraries and uncover how it reshapes ...,2024-07-25T14:00:06Z
+qrf52BVaZM8,My favorite Rust design pattern,"Today we are discussing one of my favorite Rust design patterns... extension traits! Along the way, we will learn about Rust's ...",2024-07-10T14:00:46Z
+-SFpWDYFe1Y,Rust for mission critical software,Discover how the Rust programming language is transforming mission-critical software by eliminating defects and vulnerabilities ...,2024-05-30T14:17:58Z
+8lMQfwreqRE,How Rust rose to dominance (by accident),"In this video, we'll learn about Rust's fascinating origin story and its rocky history going from an obscure side project to the most ...",2024-05-22T16:31:42Z
+UmAWPUGYeL0,JetBrains just released RustRover for free!,RustRover is now free for non-commercial use! https://www.jetbrains.com/rust Get your free Rust cheat sheet: ...,2024-05-22T04:01:39Z
+NDIU1GSBrVI,The magic of Rust&#39;s type system,"For today's video, we dissect a tangled mess and uncover its pitfalls. Let's see how Rust's type system empowers developers to ...",2024-03-21T15:00:16Z
+P1cJJMLMEKk,Solving Rust’s biggest problem,Unveiling the most significant improvement to the Rust compiler yet. Witness how Rust is overcoming it's compilation hurdles and ...,2024-02-22T15:00:29Z
+fknamfNtKk0,Why do developers hate Rust?,Discover the truth behind developers' mixed feelings towards Rust in our latest video. Dive into the complexities of this powerful ...,2024-02-15T15:00:38Z
+IGxs5v26Teg,Rust keeps making JavaScript faster,Delve into one of the most prominent trends within the JavaScript ecosystem. Join me as I unravel how Rust is revolutionizing ...,2024-02-08T15:00:14Z
+EYCBm0xAWow,5 things I wish I knew before learning Rust,"Ready to dive into Rust programming? Don't start without watching this video! In today's guide, I share 5 crucial insights I wish I ...",2024-01-25T15:00:23Z
+UzoWLSZ-scQ,Rust&#39;s most wanted feature just arrived!,"The wait is over! The highly anticipated feature in Rust has finally landed. In this video, let's delve into the latest addition that the ...",2024-01-11T15:00:23Z
+M7gk3sosPLs,Should you learn Rust in 2024?,"Considering learning a new programming language in 2024? In this video, let's explore whether Rust is the right choice for you.",2023-12-28T15:00:18Z
+bJyE9OUhhAM,Fatal C error took her life,In a tragic car accident in 2007 software defects played a key in causing a Toyota Camry to accelerate out of control and crash.,2023-12-15T16:05:06Z
+ZSN_NaHSfhE,AWS now officially supports Rust!,Exciting news for developers! AWS has officially added support for Rust. Watch this video to learn more about how Rust can now ...,2023-12-08T15:00:36Z
+Pg07HQJ0tvI,How to fight Rust&#39;s borrow checker... and win.,Getting bombarded with compile time errors is all too common when writing Rust. Today we'll learn how to fight borrow checker ...,2023-12-02T18:13:49Z
+e9l1VKz8AgQ,Rust’s most popular framework just got a major upgrade,"In this video, we will explore the groundbreaking upgrades in Rust's most popular framework! It has it's latest enhancements and ...",2023-11-25T15:00:28Z
+E0rPugR8s30,Rust 1.74.0,"Rust version 1.74.0 has just been released! In this latest update, Rust continues to solidify its position as a secure and efficient ...",2023-11-18T15:00:10Z
+usJDUSrcwqI,The Rust Survival Guide,"Think Rust is hard? In this video, I'll guide you through the essential aspects of Rust programming. These topics often pose ...",2023-11-11T15:00:45Z
+rWuzbdmP8rI,Microsoft just gave up C/C++ (use Rust!),Big news! Microsoft just decided to go full force on Rust! What does this mean for Rust developers like you and me?,2023-11-04T16:25:25Z
+oPFUDVw48AY,Rust 1.73.0,The Rust team recently announced the release of version 1.73.0. What's new? Let's find out in this video. FREE Rust cheat sheet: ...,2023-10-15T16:00:38Z
+t6eaP2AjdyA,Rust YouTubers Tier List,"There are a lot of Rust Youtubers out there, but which ones are worth watching? In this video, I am organizing all of the Rust ...",2023-10-10T18:15:00Z
+sZaAP4AS0hc,The ultimate Rust IDE is here,"Let's take a look at the new Rust IDE by JetBrains. I'll compare it to the other editors and IDEs like VSCode, Fleet and the existing ...",2023-09-26T13:00:13Z
+5qLMubxngoY,Rust 1.72.0,Rust version 1.72.0 has been released! This update comes with some new significant features and major improvements. I'll cover ...,2023-09-21T13:28:09Z
+CpvzeyzgQdw,All Rust string types explained,Today we are diving into the surprisingly complicated world of strings. Not only will we learn about the fundamental data structures ...,2023-09-17T15:50:03Z
+H8aHX-JkiZs,Rust 1.71.0,"I'm thrilled to bring you all the exciting details about the newest update from Rust, version 1.71.0. Rust continues to evolve and ...",2023-08-20T14:56:49Z
+_gMzg77Qjm0,Deploy your Rust project in 20 minutes,Deployment shouldn't be difficult. In this video you'll be guided through deploying your Rust project using 3 popular deployment ...,2023-07-18T14:15:46Z
+06CVZKbNvgE,Rust is easy... (we make it hard),"Rust is easy but understanding how everything works together is actually kind of hard, as hard as we've led ourselves to believe ...",2023-07-05T14:00:00Z
+U4x9br8OXkg,Rust 1.70.0,"I'm thrilled to bring you all the exciting details about the newest update from Rust, version 1.70.0. Rust continues to evolve and ...",2023-06-21T14:00:31Z
+784JWR4oxOI,All Rust features explained,"In today's video, we 're going over most important features of the Rust programming language. Whether you're a complete ...",2023-06-17T14:00:04Z
+QEnuzwCWpgQ,Rust is being destroyed from the inside,"While Rust has earned a dedicated following, it's not without its fair share of controversies and problems. In this video I'll talk about ...",2023-06-05T14:30:09Z
+EA19neOCeCo,Rust’s most wanted feature is coming!,Big news in the Rust community! The Rust team has just announced the upcoming stabilization and shipping of async functions in ...,2023-05-10T14:42:55Z
+oXzDg_RnBQs,Rust is taking over Windows!,"In this video, we'll be discussing the latest news about Rust's integration into the Windows kernel. This is a significant ...",2023-05-01T16:15:49Z
+PHEmHxrlxhU,Rust 1.69.0,"The latest version of Rust - 1.69.0 - has been released. Watch me talk briefly about what's new in the Rust 1.69 update, the ...",2023-04-21T15:53:24Z
+J4slMaFWCcg,Should Rust be your first programming language?,"If your goal is to become a professional programmer, should you learn Rust as your first programming language? People were ...",2023-04-14T16:35:07Z
+Tsb9IQ3e8F8,Why I switched from JS to Rust,Today I'm going to explain why I switching from JavaScript to Rust! FREE Rust Cheat Sheet: https://letsgetrusty.com/cheatsheet.,2023-03-31T14:00:30Z
+qY9j4dRaMjU,Make iterators 10X better with itertools,Today we are learning about the itertools crate and how you can use it to make your iterators more powerful! FREE Rust Cheat ...,2023-03-24T13:24:38Z
+Nzclc6MswaI,5 traits your Rust types must implement,"In this video we are discussing 5 Rust traits that your types should implement, especially if you are exposing your types as part of ...",2023-03-17T14:00:22Z
+SCM4AoOh-sk,Rust 1.68.0,"Today we are talking about the new release of Rust, version 1.68.0! FREE Rust Cheat Sheet: https://letsgetrusty.com/cheatsheet.",2023-03-10T15:41:20Z
+luOgEhLE2sg,Build your entire tech stack in Rust,Today we are talking about a brand new tech stack which allows you to build your entire application in Rust! FREE Rust Cheat ...,2023-03-03T13:32:13Z
+_ccDqRTx-JU,Improve your Rust APIs with the type state pattern,Today I'm teaching you how to build Rust APIs that are impossible to misuse by taking advantage of generics and zero-sized ...,2023-02-23T16:00:23Z
+YxG7PhZ3fb4,Speed up your Rust code with Rayon,Today we are learning how to easily parallelize your sequential Rust code with Rayon. FREE Rust Cheat Sheet: ...,2023-02-20T15:00:32Z
+6CbLuNqGpz0,Should you learn Rust in 2023?,"Should you learn Rust in 2023? Rust has an amazing story and a bright future, but in this video I'll ask if these are the best years ...",2023-02-09T12:00:05Z
+w-baalUhAxk,Chrome finally embraces Rust,"Chrome is finally embracing Rust, and in this video we'll cover why Chromium team has decided to introduce Rust into it's C++ ...",2023-02-02T12:00:39Z
+zlT_2WYU5XI,Rust 1.67.0,"Rust version 1.67.0 has been released! This video points out the changes that are worth knowing about, the new features and the ...",2023-01-28T12:00:29Z
+PbR4ECFIckg,8 deadly mistakes beginner Rust developers make,"New Rustaceans are an inquisitive bunch and want to dive into the language head first, but sometimes this leads to some ...",2023-01-24T12:00:13Z
+BHMAF8XnWr8,Rust just got a lot easier...,ChatGPT is a powerful tool for Rust programmers. But what are the practical applications and how can it help you be more ...,2022-12-29T14:56:42Z
+vnZ7Ai-JGic,Rust 1.66.0,Rust 1.66.0 was recently released and it's packed full of great features! And there are some interesting changes that you definitely ...,2022-12-23T19:18:07Z
+BDkeiYiaU90,Rust enables Arch Linux on Apple Silicon,Why is Rust important? Apple has released their recent news about supporting Linux running on Mac. And Rust plays a huge part.,2022-12-13T13:00:04Z
+LRQP_Xwr0Wc,Async functions in traits finally here!,Rust recently added support for asynchronous tasks inside a trait. This is a big news in the Rust world. Join me in today's video as ...,2022-12-01T17:13:28Z
+BgCXrf_SG2E,A new way of error handling in Rust,"In today's video I will cover a new Rust keyword called ""yeet"". I'll take you through what it is, how it works in practice and how it ...",2022-11-24T14:35:16Z
+0O_VAEgJEcA,A new operating system written in Rust,Today we are going over a new operating system Google is building for embedded devices... KataOS. FREE Rust Cheat Sheet: ...,2022-11-18T14:00:01Z
+iWpsIuinvBo,Rust 1.65.0,"Welcome to another Rust update. It's been 6 weeks since the last release, so it's probably time for another one and with some ...",2022-11-14T16:45:00Z
+FW4oUXHly8c,MUST know Rust database libraries,Today we'll be discussing the 5 must know Rust database libraries. FREE Rust Cheat Sheet: https://letsgetrusty.com/cheatsheet ...,2022-11-08T18:14:37Z
+mNTkTV81tHU,Another JS tool re-written in Rust…,Today we will talk about Another JS tool re-written in Rust. Enjoy! FREE Rust Cheat Sheet: https://letsgetrusty.com/cheatsheet ...,2022-10-27T14:20:51Z
+FK1RSiKSJ9s,Rust - The Bad Parts,Today we will talk about the bad parts of Rust. FREE Rust Cheat Sheet: https://letsgetrusty.com/cheatsheet Chapters: 0:00 Intro ...,2022-10-13T13:00:15Z
+QzK2maO89uw,Why companies are migrating from C++ to Rust,Today we will talk about why companies are migrating from C++ to Rust. FREE Rust Cheat Sheet: ...,2022-10-06T13:00:16Z
+CO5Xo76CVCk,Rust 1.64.0,Today we are discussing the latest release of the Rust programming language. Rust 1.64.0 FREE Rust Cheat Sheet: ...,2022-09-26T13:00:10Z
+aSEMGz4E0Jo,Rust will make it into Linux Kernel!,Today we will talk about why Rust will make it into Linux Kernel! FREE Rust Cheat Sheet: https://letsgetrusty.com/cheatsheet ...,2022-09-22T14:09:38Z
+gvHPRaZHgD4,Improve Your Code With Linting,Today we will talk about how to improve your Rust code with Linting. FREE Rust Cheat Sheet: https://letsgetrusty.com/cheatsheet ...,2022-09-10T15:00:33Z
+b2qe3L4BX-Y,Make your Rust Binaries TINY!,Today I'm going over how to drastically reduce the size of your Rust binaries. Min-Sized-Rust Repo: ...,2022-09-06T13:00:20Z
+uCxKdaIn2CY,Rust 1.63.0,Today we are discussing the latest release of the Rust programming language. Rust 1.63.0 Blog post: ...,2022-08-24T13:00:39Z
+S4CfHKZqzJg,The Rust Release Cycle Explained,"Today we are going over the Rust release cycle, which is important for all Rust developers to understand! #rust #programming ...",2022-08-17T13:00:15Z
+aEoIZCZSgbI,Raw String Literals In Rust,Today I'm going raw string literals in Rust. #rust #programming #tutorial.,2022-08-10T13:00:00Z
+n6vBbOJUX1k,Keyword Generic Initiative,Today I'm going over the new Keyword Generics Initiative! Blog post: ...,2022-08-03T13:00:26Z
+oQhYb7NgdUU,Turbo Fish Syntax Explained,Today we are going over the turbo fish syntax in Rust! #rust #programming #tutorial.,2022-07-27T14:37:27Z
+OXgDaae_FKM,Rust 1.62.0,In this video we are covering the new release of Rust. Version 1.62.0 Blog post: ...,2022-07-20T13:00:22Z
+iU21KZ4i6bU,A Tour of Rust,"In today's video, we are going through the features which make the Rust programming language unique! Chapters: 0:00 Intro 0:23 ...",2022-07-12T13:42:31Z
+g6WUHcyjsfc,Simple error handling in Rust,"In today's video, we are talking about error handling in Rust with error-stack.",2022-07-01T13:00:33Z
+DpUlfWP_gtg,Calling Rust code from Python,Today we are learning how to call Rust code from Python! code: https://github.com/letsgetrusty/word_counter #rust #programming ...,2022-06-22T13:00:10Z
+eIB3Pd5LBkc,Benchmark testing your Rust code,Today we are talking about benchmark testing your Rust code! code: https://github.com/letsgetrusty/benchmark_tests #rust ...,2022-06-15T13:00:22Z
+K8LNPYNvT-U,Intro to async/.await in Rust,In today's video I'm diving into the async/.await model in Rust! #rust #programming #tutorial.,2022-06-08T13:00:36Z
+MuGj795tpxY,Rust 1.61.0,In this video we are going over the latest Rust release. Version 1.61.0. Blog post: ...,2022-06-01T13:00:13Z
+ajCGKds3RoI,Rust adoption is BLAZINGLY fast!,Today I am discussing how the Rust programming language has the fastest growing developer community. State of the developer ...,2022-05-28T13:00:01Z
+FPRH66r-zUQ,Top 10 Rust crates you must know,In today's video I'm going over the 10 most common Rust crates which you should be familiar with. Crates: serde: ...,2022-05-25T13:00:08Z
+S3c7NRS698A,Structuring larger Rust projects with Cargo Workspaces,Today we are talking about structuring larger Rust projects with Cargo Workspaces.,2022-05-18T13:00:24Z
+JkSa-qA2jnY,Building micro-services in Rust using gRPC!,Today we are discussing how to use gRPC in Rust. gRPC is often used in a microservices architecture.,2022-05-14T13:00:08Z
+P8Dqmfp_GtQ,The best time to learn Rust is NOW!,The best time to learn the Rust programming language is right now! In this video I will give you 3 reasons why. Get your FREE ...,2022-05-11T13:00:11Z
+QkHhwYJaP0U,Conditional Compilation with Cargo Features,Today we are learning how to conditionally compile Rust code with cargo features! Code: https://github.com/letsgetrusty/draw.,2022-04-30T13:00:11Z
+KdPVCGfZ8sI,Prototyping in Rust with the todo!() macro,Today we are learning about how to use the todo!() macro in Rust for quick prototyping! code: ...,2022-04-27T13:00:10Z
+ogpE4hviXyA,Parsing JSON in Rust using serde and reqwest,Today we will be discussing how to parse JSON in Rust using serde and reqwest! Get your FREE Rust cheat sheet ...,2022-04-23T13:00:19Z
+bw_kseQYxto,CI for Rust projects with GitHub Actions,Today we are setting up continuous integration for a Rust project using GitHub Actions!,2022-04-20T13:00:17Z
+H-5GMjcrNx4,Is this terminal the future?,"Today we discuss Warp... not the backend Rust framework, the Terminal app that received $23M dollars in venture capital!",2022-04-16T13:00:08Z
+_VJxqwW5Zpc,Rust 1.60.0,Blog post: https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html.,2022-04-13T13:29:19Z
+eEDKc7u4uwg,Idiomatic Rust - Avoiding Allocations,The Rust programming language has a lot of great features but it's not always obvious how to write Rust code in an idiomatic way.,2022-04-09T13:00:15Z
+xAkcLcYuuWg,Idiomatic Rust - Iterating over Option,The Rust programming language has a lot of great features but it's not always obvious how to write Rust code in an idiomatic way.,2022-04-06T13:00:34Z
+5DWU-56mjmg,Idiomatic Rust - Builder Pattern,The Rust programming language has a lot of great features but it's not always obvious how to write Rust code in an idiomatic way.,2022-04-02T13:00:03Z
+hBA00Tx_dIM,Idiomatic Rust - Function Arguments,The Rust programming language has a lot of great features but it's not always obvious how to write Rust code in an idiomatic way.,2022-03-30T18:23:52Z
+6b-8gpLCrrg,Idiomatic Rust - Constructors,The Rust programming language has a lot of great features but it's not always obvious how to write Rust code in an idiomatic way.,2022-03-26T13:00:03Z
+vAObcndWaBY,5 ways to increase your productivity in Rust,Today we are discussing how to increase your productivity when programming in Rust! Get your FREE Rust cheat sheet ...,2022-03-23T12:58:13Z
+RQPbWCDT8BM,Rust Is Taking Over Open Source,Today we are going over popular open source projects written in the Rust programming language. Get your FREE Rust cheat ...,2022-03-19T13:00:10Z
+C48MN4d8I5Y,Improving Rust code with combinators,Today we are doing some functional programming in Rust! Specifically we will be discussing how to improve Rust code using ...,2022-03-16T13:00:05Z
+NS9Dh63i_Q4,Realtime Chat App in Rust!,Today we are building a realtime chat application in Rust using the Rocket framework!,2022-03-12T14:00:20Z
+KmOeFrwz8BM,Building a Rust App With Yew!,Today we are building a web app using Rust and Yew framework. Yew allows us to build frontend WebAssembly apps without ...,2022-03-09T14:00:19Z
+8bDsLZoG8OA,Rust 1.59.0,Blog post: https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html.,2022-03-05T14:00:08Z
+RVpIhxL2nWY,Rust 2021 Survey Results,Today we will be discussing the results of the Rust 2021 survey! blog post: ...,2022-03-02T14:00:22Z
+0tdoy5cxSe8,rust-analyzer Joins Rust Organization,rust-analyzer officially joined the Rust organization! blog post: ...,2022-02-26T14:00:00Z
+7EcNkr6KFy0,C++ RAII vs Rust OBRM - Part 2,Today we will be discussing ownership in Rust and how it relates to the RAII pattern in C++. Get your FREE Rust cheat sheet ...,2022-02-23T14:00:02Z
+AnFaf-L_DfE,C++ RAII vs Rust OBRM - Part 1,Today we will be discussing the RAII pattern in C++. Get your FREE Rust cheat sheet : https://www.letsgetrusty.com/cheatsheet ...,2022-02-19T15:14:50Z
+I4xIc-h8G8o,Reviewing Rust Jobs,Today I will be reviewing Rust jobs!,2022-02-09T14:00:15Z
+BRRnIathTXs,Amazon is using Rust!,Today I discuss how Amazon is using Rust in its Prime Video app. Blog post: ...,2022-02-05T14:00:04Z
+GUZ_2gGWuPo,Memory Management Strategies,In this video we go over various memory management strategies and how they relate to Rust. Get your FREE Rust cheat sheet: ...,2022-02-02T14:00:06Z
+oFfYIdLj4_w,CVE-2022-21658 &amp; Rust 1.58.1,Today I go over a CVE found in the Rust standard library and the 1.58.1 release of Rust. Get your FREE Rust cheat sheet: ...,2022-01-29T14:00:31Z
+NnLdGKoz1ls,"Stack, Heap, and Static Memory",This is the first video in a series of videos about memory management. In this first video I will be discussing memory regions we ...,2022-01-26T14:00:09Z
+VB2v5P5SVLE,Rust 1.58.0,Today I go over the 1.58.0 release of Rust. Get your FREE Rust cheat sheet: https://www.letsgetrusty.com/cheatsheet #rust ...,2022-01-22T14:00:11Z
+6WXT1JOnH7c,Rust Project Ideas for Beginners,Today we discuss projects you can do to get hand-on experience with Rust! Get your FREE Rust cheat sheet: ...,2022-01-19T14:00:04Z
+m_phdVlkr6U,Class Based OOP vs Traits,Today we are discussing the differences between class based object oriented programming (think Java) and the trait system in ...,2022-01-15T14:00:31Z
+HenZGqXXeik,Will Rust replace C/C++?,In today's video I will be comparing C and C++ to Rust and discussing when it makes sense to use Rust instead of C or C++.,2022-01-12T14:00:08Z
+VsEYPzDg8FA,Is Rust dying in 2022?,"In today's video, I will be discussing the adoption and popularity of Rust along with the growth in job opportunities. #rustlang ...",2022-01-08T14:00:23Z
+U6O7J8LoyMc,Mocking in Rust,Today I am going over the basics of mocking in Rust. Mocking helps us write unit tests without side effects such as database ...,2022-01-05T14:00:14Z
+W8ebRhx4hd4,Is Rust too hard to learn?,I'm today's video we are discussing if it's too hard to learn the Rust programming language.,2022-01-01T14:00:24Z
+969j0qnJGi8,Rust Modules - Explained Like I&#39;m 5,Today we are learning about modules in the Rust programming language by going through a code example! Get your FREE ...,2021-12-24T16:46:47Z
+x_iZEK6Rww4,IDE Setup For Rust Development,Today I'm going over my IDE setup for Rust development!,2021-12-18T14:00:23Z
+1AamFJGAE8E,Building a Web Server in Rust - Part 2,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-12-04T14:00:02Z
+uIeIBlB0JFw,Rust 2021 Edition Explained,"In today's video, I will be discussing important changes in the 2021 Edition of Rust. Get your FREE Rust cheat sheet: ...",2021-11-27T14:00:19Z
+BHxmWTVFWxQ,Building a Web Server in Rust - Part 1,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-11-20T13:00:11Z
+KsJHlqULpO4,Declarative Macros in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-11-06T13:00:21Z
+rnxutl7t1hI,Advanced Function and Closures in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-10-30T13:00:22Z
+aI1oIFqh44Y,Advanced Types in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-10-23T13:00:00Z
+RDxz94tuxqM,Advanced Traits in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-10-16T13:00:11Z
+9E2v8pCUc48,Writing Unsafe Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-10-09T13:00:10Z
+yYUZzYcrdIM,Should You Learn Rust as a Web Developer?,Today I discuss the 4 reasons to learn Rust as a web developer!,2021-10-06T13:00:35Z
+8_HPKGZGM5I,Pattern Syntax in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-10-02T13:00:07Z
+E6Pjz7bEHHM,How is Rust Used in Production?,Today I talk about how Rust is used by big tech companies in production. #rustlang #rust.,2021-09-29T13:00:13Z
+NzeQbiiqhgo,Patterns and Matching,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-09-25T13:00:28Z
+c2o9JSzgITQ,Best Rust Backend Web Frameworks,Today I talk about the best Rust backend web frameworks. Rocket: https://rocket.rs/ Actix-web: https://actix.rs/ Warp: ...,2021-09-22T13:00:13Z
+VFmPwvhubow,State Design Pattern in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-09-18T13:00:13Z
+2h05zeFWSj8,Why You Should NOT Learn Rust!,Today I'm going over the top 5 reasons why you should NOT learn the Rust programming language. Get notified when the Rust ...,2021-09-15T13:00:01Z
+ReBmm0eJg6g,Using Trait Objects in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-09-11T13:00:12Z
+T4E8LSCFHu8,Best FREE Rust Learning Resources,"In this video, I go over the best free resources for learning Rust. Get you FREE Rust Cheatsheet: ...",2021-09-08T13:00:12Z
+UGDa0P2PXrY,Object Oriented Programming in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-09-04T13:00:12Z
+Mcuqzx3rBWc,Strings in Rust FINALLY EXPLAINED!,"The ultimate Rust lang tutorial. Follow along as we go through strings in Rust. We will be talking about UTF-8, the &str and String ...",2021-09-01T13:00:14Z
+mupwF9jbVZ4,Concurrency in Rust - Sharing State,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-08-28T13:00:14Z
+FE1BkKqYCGU,Concurrency in Rust - Message Passing,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-08-25T13:00:12Z
+06WcsNPUNC8,Concurrency in Rust - Creating Threads,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-08-21T13:00:00Z
+pIVZRDFAUyc,Smart Pointers in Rust - Reference Cycles,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-08-14T13:00:32Z
+77aRH6YBKyY,Smart Pointers in Rust - Interior Mutability,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-08-07T13:00:04Z
+M9Owp3iLigg,Smart Pointers in Rust - Reference Counting,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-07-31T13:00:17Z
+MraEYwI9C5o,What can you build in Rust?!,Today we are discussing what kind of programs you can build using Rust! Get notified when the Rust Cheatsheet comes out: ...,2021-07-24T13:00:07Z
+RPWZcTYBS4k,Smart Pointers in Rust - The Drop Trait,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-07-17T13:00:18Z
+dYEC6NElVOg,Smart Pointers in Rust - The Deref Trait,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-07-10T13:00:30Z
+m76sRj2VgGo,The Box Smart Pointer in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust Cheat ...,2021-07-03T13:00:17Z
+70_9IIsQfjs,Cargo Workspaces,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust ...,2021-06-26T13:00:03Z
+4TI153PIEDQ,Publishing a Rust Crate!,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust ...,2021-06-19T13:00:01Z
+4O-lXoI2opA,Rust vs Go… obvious choice,"In today's video, we discuss the technical nuances that distinguish Rust and Go. Get the FREE Rust Cheat Sheet: ...",2021-06-12T13:00:03Z
+rb63xJEjaZU,Iterators in Practice,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust ...,2021-06-05T13:00:17Z
+4GcKrj4By8k,Iterators in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust ...,2021-05-29T13:00:03Z
+kZXJvLfjUS4,Closures in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust ...,2021-05-22T13:00:30Z
+AABHxixn6Cw,Writing a CLI App in Rust! - Part 2,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust ...,2021-05-15T13:00:10Z
+XYkiwsplDTg,Writing a CLI App in Rust! - Part 1,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get the FREE Rust ...,2021-05-08T13:00:23Z
+-L4nKAlmH3M,Testing in Rust - Part 2,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-05-01T13:00:00Z
+18-7NoNPO30,Testing in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-04-24T13:00:02Z
+09POGX5aOsY,How to get a job programming in Rust!,In this video I break down 3 ways you can get a job programming in Rust. Get the Rust cheatsheet: ...,2021-04-17T14:00:01Z
+juIINGuZyBc,Rust Lifetimes Finally Explained!,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your *FREE Rust ...,2021-04-10T15:00:30Z
+T0Xfltu4h3A,Traits in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-04-04T14:30:02Z
+5slH34qP2Tw,Should you learn Rust Lang in 2022?!,Should you invest the time to learn the Rust programming language in 2022? Find out my top 3 reasons for learning Rust! Get the ...,2021-03-21T14:22:03Z
+wM6o70NAWUI,Error Handling in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-03-14T16:38:34Z
+Zs-pS-egQSs,Common Collections in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-03-06T21:22:48Z
+5RPXgDQrjio,Rust&#39;s Module System Explained!,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-02-28T21:03:48Z
+DSZqIJhkNCM,Enums and Pattern Matching in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-02-20T21:13:35Z
+n3bPhdiJm9I,Structs in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-02-14T19:31:52Z
+VFIOSWy93H0,Understanding Ownership in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get your FREE Rust ...,2021-02-07T22:58:43Z
+2V0JaMVjzws,Common Programming Concepts in Rust,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-01-31T18:21:38Z
+H0xBSbnQYds,Programming a Guessing Game in Rust!,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-01-24T20:37:24Z
+OX9HJsJUDxA,ULTIMATE Rust Lang Tutorial! - Getting Started,The ultimate Rust lang tutorial. Follow along as we go through the Rust lang book chapter by chapter. Get notified when the ...,2021-01-17T22:25:06Z
+nyy1u4TEnP4,Hello World,,2021-01-11T00:50:06Z
