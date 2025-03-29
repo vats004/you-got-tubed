@@ -9,7 +9,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     dotenv().ok();
 
     let api_key = env::var("YOUTUBE_API_KEY").expect("YOUTUBE_API_KEY must be set");
-    let channel_id = "UCSp-OaMpsO8K0KkOqyBl7_w"; // Bogdan's channel ID
+    let channel_id = "UCOF23vGxkbhN4wl7ROrgXsA"; // UCSp-OaMpsO8K0KkOqyBl7_w // let's get rusty
+                                                 // UCkAGrHCLFmlK3H2kd6isipg // mr bean
+                                                 // UCOF23vGxkbhN4wl7ROrgXsA // goldmines bollywood
+                                                 // UCeTCF8aVI62qgjJ5g0zPKtg // carlos fernandez
 
     match fetch_videos(&api_key, channel_id).await {
         Ok(videos) => {
@@ -82,7 +85,7 @@ async fn fetch_videos(
 
 //write rto CSV function
 fn write_to_csv(videos: Vec<Value>) -> Result<(), Box<dyn std::error::Error>> {
-    let mut wtr = Writer::from_path("rust_lang_bogdan.csv")?;
+    let mut wtr = Writer::from_path("oldies.csv")?;
 
     wtr.write_record(&["Video ID", "Title", "Descrption", "Published At"])?;
 
