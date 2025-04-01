@@ -3,7 +3,6 @@
 This project fetches video data from YouTube and exports it as a CSV file using Rust.
 
 ![Project Overview](images/overview.png)
-![Project Overview](images/csv.png)
 
 ## Features
 - Fetches the latest videos from a YouTube channel. Sometimes, it can also be personal videos (__Use at your own discretion__)
